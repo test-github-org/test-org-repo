@@ -1,0 +1,9 @@
+projects:
+  - url: https://github.com/orgs/test-github-org/projects/3
+    column: To Do
+
+  - url: https://github.com/orgs/test-github-org/projects/2
+    column: To Do
+
+  - url: https://github.com/test-github-org/test-org-repo/projects/1
+    column: To Do
