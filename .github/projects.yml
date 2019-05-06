@@ -1,3 +1,4 @@
+# Example config
 projects:
   - url: https://github.com/orgs/test-github-org/projects/3
     column: To Do
